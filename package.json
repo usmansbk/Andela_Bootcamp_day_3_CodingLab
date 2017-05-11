@@ -17,6 +17,9 @@
   ],
   "author": "Usman Babakolo",
   "license": "ISC",
+  "dependencies": {
+  	"jasmine":"^2.6.0
+  },
   "bugs": {
     "url": "https://github.com/usmansbk/Andela_Bootcamp_day_3_CodingLab/issues"
   },
