@@ -15,6 +15,9 @@
     "jasmine",
     "stringsplosion"
   ],
+  "dependencies": {
+    "jasmine":"^2.6.0"
+  },
   "author": "Usman Babakolo",
   "license": "ISC",
   "bugs": {
